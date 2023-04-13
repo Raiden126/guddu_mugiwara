@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Webpage title </title>
+</head>
+<body bgcolor="beige">
+<strong>bold</strong>
+<em>italic</em>
+<ins>underlined</ins>
+<sup>superscript</sup>
+<sub>subscript</sub>
+<del>deleted</del>
+</body> 
+</html>
